@@ -1,0 +1,15 @@
+.button{
+    height: 40px;
+    width: 50%;
+    cursor: pointer;
+    color: var(--font-color);
+    border: none;
+}
+
+.button-red{
+    background-color: red;
+}
+
+.button-gray{
+    background-color: gray;
+}
